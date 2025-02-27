@@ -1,6 +1,6 @@
 # Hi there, I'm Aaron Feller 👋
 
-🎓 **PhD Candidate in Computational Biochemistry** at UT Austin
+🎓 **PhD Candidate in Computational Biochemistry** at UT Austin  
 🧬 Specializing in computational biology, machine learning, and bioinformatics  
 🏆 Best Poster Award, UT ILS Retreat (2023)  
 🔬 Research: Peptide modeling with BERT-style architectures and natural antibiotic discovery  
