@@ -6,7 +6,8 @@
 
 ## 🏆 Featured Publications
 - [Peptide-Aware Chemical Language Model Predicts Membrane Diffusion of Cyclic Peptides](https://doi.org/10.1021/acs.jcim.4c01441) - *Journal of Chemical Information and Modeling, 2024*  
-- [Using Alternative SMILES Representations to Identify Novel Functional Analogues](https://doi.org/10.1016/j.patter.2023.100865) - *Patterns, 2023*  
+- [Using Alternative SMILES Representations to Identify Novel Functional Analogues](https://doi.org/10.1016/j.patter.2023.100865) - *Patterns, 2023*
+- All publications on [Google Scholar](https://scholar.google.com/citations?user=Ez8l_VoAAAAJ&hl=en&authuser=1)
 
 ## 🛠 Skills
 **Programming & Data Analysis:** Python, HPC, Virtual Screening, Data Science  
